@@ -26,7 +26,7 @@ function Login({ setIsLoggedIn }) {
 
   return (
     <form onSubmit={handleSubmit}>
-      <h1>Login</h1>
+      <h2>Login</h2>
       <input
         type="text"
         name="username"
